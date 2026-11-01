@@ -1,10 +1,11 @@
 {
  "v": 1,
- "seq": 1,
- "issued": 1793571118,
+ "seq": 2,
+ "issued": 1793571885,
  "keys": [
-  "451796F97CAE"
+  "451796F97CAE",
+  "9CBAC7B14839"
  ],
  "machines": [],
- "sig": "fb032bedbde6b8636b30aacba35a8fd8c54cc2be0b80541d7c9f3090971614fc18c9f6593bee525eb08b06124a3e331ac749c704fdc8e82c6c641ffa3e318c08"
+ "sig": "61376ff1d4f849c0c79cec1ef6f750416d38f19b146f59658fad12a02d73922145b4641144bf0d9094e3ff7efc2ad593f5538486c674e58b6b9b9c05ae4dd909"
 }
